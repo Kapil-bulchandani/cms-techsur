@@ -19,3 +19,4 @@ ltcupdate
 
 drupal/settings/local-settings/unversioned.php
 unversioned.source.sh
+.idea/
